@@ -98,3 +98,4 @@ plt.subplots_adjust(wspace=0.4, hspace=0.6)
 
 # Save the infographic as a PNG file
 plt.savefig("22075982.png", dpi=300)
+ply.show()
